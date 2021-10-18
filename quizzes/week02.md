@@ -13,7 +13,8 @@ An action that can be reusable.
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility principle, Open closed principle, Liskov substitution principle
+, Interface segregation principle, Dependency Inversion principle.
 ```
 **4.** Given this array: 
 ```js
@@ -32,7 +33,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -60,7 +61,7 @@ Document object model. The Document.
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+ECMAScript is a scripting language specification on which JavaScript is based/
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
