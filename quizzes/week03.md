@@ -16,7 +16,7 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-return staff.find(findName)
+return staff.find( n => n.name)
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
