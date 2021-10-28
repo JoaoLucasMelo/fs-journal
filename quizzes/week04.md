@@ -28,7 +28,7 @@ Its a way to request data from the server and when we do, it will be in pending 
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
+Post, Delete, Get.
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
@@ -38,7 +38,7 @@ Application Programming Interface.
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-The Axios Service.
+AxiosService.js
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
@@ -47,8 +47,7 @@ Encapsulation helps in isolating implementation details from the behavior expose
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
-```
-
+```Code 200 - Ok, 201 - Created, 202 - Accepted.
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
