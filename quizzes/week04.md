@@ -8,7 +8,7 @@ Asynchronous code is when it doenst need to wait for one function to get done to
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+The method attaches an event handler to the specified element.
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
