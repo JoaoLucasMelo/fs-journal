@@ -3,27 +3,27 @@
 **1.** What is the entrypoint of an application?
 <!-- enter you answer in the space below -->
 ```
-
+main.js
 ```
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
 ```
-
+Page is where you load all your components that are reusable and load them on the screen.
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+props.
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
 ```
-
+HTML, Scrips and Style tags.
 ```
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+LSP - Liskov Substitution Principle
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
