@@ -28,30 +28,30 @@ LSP - Liskov Substitution Principle
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+useRouter for functionality and useRoute for data.
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+State is not used on Vue 3 anymore.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+Set a conection with the Api using .post .get .put and .delete,  and connect and modify AppState values.
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
 ```
-
+App.vue
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-
+style, scoped.
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+Computed.
 ```
