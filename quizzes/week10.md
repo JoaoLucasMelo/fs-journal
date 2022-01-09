@@ -30,30 +30,30 @@ abstract class Car
 **5.** In the example what is the access modifier of the `Start()` method?
 <!-- enter you answer in the space below -->
 ```
-
+Public.
 ```
 **6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
 ```
-
+This function will return a String.
 ```
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-
+indicate that this class is intended only to be a base class of other classes, not instantiated on its own.
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+Give you information that is not saved in the database.
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
 ```
-
+Public, Private, Protected and Internal.
 ```
 **10.** If you set a class or method to private, what can access it?
 <!-- enter you answer in the space below -->
 ```
-
+It can be accessed only by code in the same class or struct.
 ```
